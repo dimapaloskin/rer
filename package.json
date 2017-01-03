@@ -12,7 +12,6 @@
   "author": "Dima Paloskin",
   "license": "MIT",
   "dependencies": {
-    "execa": "^0.5.0",
-    "keypress": "^0.2.1"
+    "execa": "^0.5.0"
   }
 }

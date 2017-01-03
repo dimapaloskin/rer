@@ -1,6 +1,6 @@
 {
   "name": "rer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runs program and restart it after pressing Ctrl+R",
   "main": "index.js",
   "bin": {

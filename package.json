@@ -2,12 +2,16 @@
   "name": "rer",
   "version": "0.1.6",
   "description": "Runs program and restart it after pressing Ctrl+R",
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
     "rer": "bin/rer"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimapaloskin/rer"
   },
   "author": "Dima Paloskin",
   "license": "MIT",

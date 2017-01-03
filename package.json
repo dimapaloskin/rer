@@ -1,0 +1,18 @@
+{
+  "name": "rer",
+  "version": "0.0.1",
+  "description": "Runs program and restart it after pressing Ctrl+R",
+  "main": "index.js",
+  "bin": {
+    "rer": "bin/rer"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima Paloskin",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.5.0",
+    "keypress": "^0.2.1"
+  }
+}
